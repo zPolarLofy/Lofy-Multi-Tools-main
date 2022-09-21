@@ -1,4 +1,5 @@
-🔥 <b>Lofy Multi Tools>/b>
+🔥 <b>Lofy Multi Tools</b>
+
 De início esta ferramenta requer o node.js e python instalado você pode notar que na maioria as opções da ferramenta a [Requer Python] algo do tipo já o restante requerer apenas node.js para fazer o download disso você pode encontrar nos sites oficiais.
 
 Conceitos básicos
