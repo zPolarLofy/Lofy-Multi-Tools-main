@@ -5,6 +5,7 @@ De início esta ferramenta requer o node.js e python instalado você pode notar 
 Conceitos básicos
 
 1- Fazer o Download do Node.js e do Python pois é necessário para o script funcionar.
+<p>
 2- Pode utilizar sua conta do discord mas não exagere tome cuidado pois algumas opções você não pode utilizar sua conta oficial que no caso seria a 2 e 5.
 
 
