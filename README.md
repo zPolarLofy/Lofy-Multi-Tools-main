@@ -35,7 +35,7 @@ FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubuserco
 
   
 
-💸 <b>• DOWNLOAD : https://www.mediafire.com/file/9o3v2brexq3acl5/Lofy-Multi-Tools-main.rar/file 
+💸 <b>• DOWNLOAD Lofy-Multi-Tools : https://www.mediafire.com/file/9o3v2brexq3acl5/Lofy-Multi-Tools-main.rar/file 
   
 💸 <b>• VÍDEO AULA : https://www.youtube.com/embed/Yh4CiS03X2M
   
