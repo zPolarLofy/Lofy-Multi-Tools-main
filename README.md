@@ -10,7 +10,7 @@ Conceitos básicos
 <p>
   <br>
 
-💸 <b>• DOWNLOAD : https://www.mediafire.com/file/l1g2ufdkbvun7aq/Lofy-Multi-Tools-main.rar/file
+💸 <b>• DOWNLOAD : https://www.mediafire.com/file/9o3v2brexq3acl5/Lofy-Multi-Tools-main.rar/file
   
 💸 <b>• VÍDEO AULA : https://www.youtube.com/embed/Yh4CiS03X2M
   
