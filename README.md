@@ -28,6 +28,8 @@ Conceitos básicos
 DEPOIS DESATIVE O ANTI VIRUS 
 
 DOWNLOAD PARA DESATIVAR O WINDOWS DEFENDER DOWNLOAD COM A SENHA 123 https://www.mediafire.com/file/kv10ekvbbkwjlaz/Desativar_Windows_Defender.zip/file
+<br>
+senha : possesive
 
 FAÇA ASSIM IGUAL ESTÁ NA IMAGEM : ![download](https://user-images.githubusercontent.com/113463089/192199187-d520d123-d72a-4b07-b0fd-b34e9b8ef8ef.png)
 
